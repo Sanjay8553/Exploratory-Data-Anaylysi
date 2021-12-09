@@ -18,7 +18,9 @@ Bivariate visualizations and summary statistics that allow you to assess the rel
 Multivariate visualizations, for mapping and understanding interactions between different fields in the data.
 K-means Clustering is a clustering method in unsupervised learning where data points are assigned into K groups, i.e. the number of clusters, based on the distance from each group’s centroid. The data points closest to a particular centroid will be clustered under the same category. K-means Clustering is commonly used in market segmentation, pattern recognition, and image compression.
 Predictive models, such as linear regression, use statistics and data to predict outcomes.
+
 Types of exploratory data analysis
+
 There are four primary types of EDA:
 Univariate non-graphical. This is simplest form of data analysis, where the data being analyzed consists of just one variable. Since it’s a single variable, it doesn’t deal with causes or relationships. The main purpose of univariate analysis is to describe the data and find patterns that exist within it.
 Univariate graphical. Non-graphical methods don’t provide a full picture of the data. Graphical methods are therefore required. Common types of univariate graphics include:
@@ -34,6 +36,7 @@ Run chart, which is a line graph of data plotted over time.
 Bubble chart, which is a data visualization that displays multiple circles (bubbles) in a two-dimensional plot.
 Heat map, which is a graphical representation of data where values are depicted by color.
 Exploratory Data Analysis Tools
+
 Some of the most common data science tools used to create an EDA include:
 Python: An interpreted, object-oriented programming language with dynamic semantics. Its high-level, built-in data structures, combined with dynamic typing and dynamic binding, make it very attractive for rapid application development, as well as for use as a scripting or glue language to connect existing components together. Python and EDA can be used together to identify missing values in a data set, which is important so you can decide how to handle missing values for machine learning.
 R: An open-source programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians in data science in developing statistical observations and data analysis.
